@@ -41,6 +41,7 @@ const getEvents = (callback) => {
         })
       })
     }
+
     return callback(null, events)
   })
 }
@@ -93,19 +94,21 @@ const getDayResults = (id, day, callback) => {
       return callback(new Error(`server error: ${res.statusCode}`))
     } else {    
       const $ = cheerio.load(body)
-      const players = []
-      $('a[href^="../player.aspx"]').each((i, elem) => {
-        players.push($(elem).text())
-      })
-      $('span.score').each((i, elem) => {
-        const games = _.split($(elem).text(), /\s+/)
-        const match = {
-          players: [],
-          games: games
-        }
-        match.players.push(players.shift())
-        match.players.push(players.shift())
-        results.push(match)
+      $('table.matches > tbody > tr').each((i, elem) => {
+        const players = []
+        $(elem).find('a[href^="../player.aspx"]').each((i, elem) => {
+          players.push($(elem).text())
+        })
+        $(elem).find('span.score').each((i, elem) => {
+          const games = _.split($(elem).text(), /\s+/)
+          const match = {
+            players: [],
+            games: games
+          }
+          match.players.push(players.shift())
+          match.players.push(players.shift())
+          results.push(match)
+        })        
       })
     }
     return callback(null, results)
