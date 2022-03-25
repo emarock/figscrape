@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "update-events": "node events > data/events.json",
-    "update-results": "node results > data/results.json" 
+    "update-results": "node results > data/results.json"
   },
   "author": "",
   "license": "ISC",
