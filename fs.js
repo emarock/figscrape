@@ -26,7 +26,7 @@ const getPlayers = (gender, callback) => {
   let over = false
   
   async.doUntil((callback) => {
-	    const url = util.format(URLS.players[gender], page * 20)
+    const url = util.format(URLS.players[gender], page * 20)
     debug(`downloading players at ${url}`)
     request(url, (err, res, body) => {
       if (err) {
@@ -49,9 +49,6 @@ const getPlayers = (gender, callback) => {
           const team = $('.societa', elem).text()
           const points = $('.attuali', elem).text()
 
-          // if (result[id]) {
-          //   over = true
-          // } else {
           result[id] = {
             id,
             name,
@@ -61,14 +58,13 @@ const getPlayers = (gender, callback) => {
             points,
             page
           }
-          // }
         })
         page++
         return callback()
       }
     })
-  }, () => {
-    return over
+  }, (callback) => {
+    return callback(null, over)
   }, (err) => {
     if (err) {
       return callback(err)
