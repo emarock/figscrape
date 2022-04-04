@@ -19,8 +19,291 @@
    "20220403"
   ],
   "results": {
-   "20220402": [],
-   "20220403": []
+   "20220402": [
+    {
+     "players": [
+      "Gioele COMERIO [5/8]",
+      "Marco PICCININO [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "14-12"
+     ]
+    },
+    {
+     "players": [
+      "Daniele DE BARTOLOMEO [5/8]",
+      "Elia URBINATI [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo CORBANI [9/16]",
+      "Andrea DINI [3/4]"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Francesco BISELLO [3/4]",
+      "Mattias CASOLI [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-3",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo STAURENGO [5/8]",
+      "Roberto CASICCI [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-2",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Simone DE BARTOLOMEO [9/16]",
+      "Marco RIMINUCCI [5/8]"
+     ],
+     "games": [
+      "9-11",
+      "11-7",
+      "11-7",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Pietro TEODONNO [1]",
+      "Gioele COMERIO [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Daniele DE BARTOLOMEO [5/8]",
+      "Lorenzo CORBANI [9/16]"
+     ],
+     "games": [
+      "6-11",
+      "11-4",
+      "11-4",
+      "9-11",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Andrea DINI [3/4]",
+      "Elia URBINATI [9/16]"
+     ],
+     "games": [
+      "10-12",
+      "11-6",
+      "11-8",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo STAURENGO [5/8]",
+      "Francesco BISELLO [3/4]"
+     ],
+     "games": [
+      "11-1",
+      "11-6",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Kumar SURYANSH [2]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "12-10",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Roberto CASICCI [9/16]",
+      "Mattias CASOLI [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Pietro TEODONNO [1]",
+      "Daniele DE BARTOLOMEO [5/8]"
+     ],
+     "games": [
+      "8-11",
+      "11-7",
+      "11-9",
+      "10-12",
+      "15-13"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo CORBANI [9/16]",
+      "Gioele COMERIO [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-7",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Andrea DINI [3/4]",
+      null
+     ],
+     "games": [
+      "9-11",
+      "11-6",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Kumar SURYANSH [2]",
+      "Lorenzo STAURENGO [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "7-11",
+      "11-6",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Francesco BISELLO [3/4]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "10-12",
+      "6-11",
+      "11-8",
+      "15-13"
+     ]
+    },
+    {
+     "players": [
+      "Roberto CASICCI [9/16]",
+      null
+     ],
+     "games": [
+      "11-8",
+      "11-3",
+      "11-0",
+      "Retired"
+     ]
+    }
+   ],
+   "20220403": [
+    {
+     "players": [
+      "Marco RIMINUCCI [5/8]",
+      "Andrea DINI [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "12-10",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      null,
+      null
+     ],
+     "games": [
+      "11-5",
+      "12-10",
+      "9-11",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo STAURENGO [5/8]",
+      "Daniele DE BARTOLOMEO [5/8]"
+     ],
+     "games": [
+      "12-10",
+      "11-5",
+      "8-11",
+      "8-11",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo CORBANI [9/16]",
+      "Francesco BISELLO [3/4]"
+     ],
+     "games": [
+      "11-2",
+      "11-1",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Gioele COMERIO [5/8]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "5-11",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Pietro TEODONNO [1]",
+      "Kumar SURYANSH [2]"
+     ],
+     "games": [
+      "11-7",
+      "9-11",
+      "11-9",
+      "6-11",
+      "11-9"
+     ]
+    }
+   ]
   }
  },
  {
