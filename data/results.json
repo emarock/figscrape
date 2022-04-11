@@ -1,14 +1,383 @@
 [
  {
-  "id": "9179C10A-AC48-44A4-947E-EB9BC5FFBC88",
-  "title": "Torneo Città d'Italia #3 - Elite-M - Cordenons",
+  "id": "089A9030-6CE2-4820-AE1B-658B41561427",
+  "title": "Torneo Città d'Italia#3 - Memorial Anna Sterchele",
   "days": [
    "20220409",
    "20220410"
   ],
   "results": {
-   "20220409": [],
-   "20220410": []
+   "20220409": [
+    {
+     "players": [
+      "Petra Emilia Katriina Paunonen",
+      "Yasmin Ghini"
+     ],
+     "games": [
+      "11-4",
+      "11-9",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Federica Rodella",
+      "Katiuscia Grossi"
+     ],
+     "games": [
+      "11-6",
+      "13-11",
+      "7-11",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Giulia Semprini",
+      "Elisa Zambon"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Polly Clark",
+      "Petra Emilia Katriina Paunonen"
+     ],
+     "games": [
+      "11-1",
+      "11-5",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Monica Menegozzi",
+      "Letizia Viel"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Katiuscia Grossi",
+      "Elisa Zambon"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Federica Rodella",
+      "Cristina Tartarone"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Nossier Heba",
+      "Giulia Semprini"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "9-11",
+      "9-11",
+      "11-6"
+     ]
+    }
+   ],
+   "20220410": [
+    {
+     "players": [
+      "Petra Emilia Katriina Paunonen",
+      "Letizia Viel"
+     ],
+     "games": [
+      "11-8",
+      "9-11",
+      "13-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Katiuscia Grossi",
+      "Yasmin Ghini"
+     ],
+     "games": [
+      "9-11",
+      "11-5",
+      "11-9",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Monica Menegozzi",
+      "Polly Clark"
+     ],
+     "games": [
+      "14-12",
+      "0-11",
+      "7-11",
+      "11-6",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Nossier Heba",
+      "Federica Rodella"
+     ],
+     "games": [
+      "11-1",
+      "11-7",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Giulia Semprini",
+      "Petra Emilia Katriina Paunonen"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "14-12"
+     ]
+    },
+    {
+     "players": [
+      "Yasmin Ghini",
+      "Elisa Zambon"
+     ],
+     "games": [
+      "3-11",
+      "11-6",
+      "11-7",
+      "6-11",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Monica Menegozzi",
+      "Nossier Heba"
+     ],
+     "games": [
+      "8-11",
+      "9-11",
+      "11-6",
+      "11-4",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Federica Rodella",
+      "Polly Clark"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "9179C10A-AC48-44A4-947E-EB9BC5FFBC88",
+  "title": "Torneo Città d'Italia #3 - Elite-M - Cordenons",
+  "days": [
+   "20220409"
+  ],
+  "results": {
+   "20220409": [
+    {
+     "players": [
+      "David STUCKLER [5/8]",
+      "Gioele COMERIO [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "9-11",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [5/8]",
+      "Riccardo MONTAGNA [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-0",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Tiberio NEGRO [3/4]",
+      "Pietro TEODONNO [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Davide MORRI [3/4]",
+      "Lorenzo STAURENGO [5/8]"
+     ],
+     "games": [
+      "11-2",
+      "12-10",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "David STUCKLER [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Mattia MULAZZANI [2]",
+      "Davide MOLLICA [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "12-10",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      null,
+      null
+     ],
+     "games": [
+      "11-3",
+      "11-3",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Pietro TEODONNO [5/8]",
+      "David STUCKLER [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "7-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [5/8]",
+      "Lorenzo STAURENGO [5/8]"
+     ],
+     "games": [
+      "7-11",
+      "11-9",
+      "11-5",
+      "4-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "Tiberio NEGRO [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "11-2",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Mattia MULAZZANI [2]",
+      "Davide MORRI [3/4]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [5/8]",
+      "Pietro TEODONNO [5/8]"
+     ],
+     "games": [
+      "11-9",
+      "11-7",
+      "6-11",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo STAURENGO [5/8]",
+      "David STUCKLER [5/8]"
+     ],
+     "games": [
+      "11-13",
+      "11-5",
+      "11-5",
+      "8-11",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "Mattia MULAZZANI [2]"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Tiberio NEGRO [3/4]",
+      "Davide MORRI [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "11-7",
+      "10-12",
+      "11-9"
+     ]
+    }
+   ]
   }
  },
  {
