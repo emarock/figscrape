@@ -1,5 +1,17 @@
 [
  {
+  "id": "52E8B733-1B44-4DC9-BA64-1213AE8FDD39",
+  "title": "Torneo Città d'Italia - 1a categoria - Trento",
+  "days": [
+   "20220423",
+   "20220424"
+  ],
+  "results": {
+   "20220423": [],
+   "20220424": []
+  }
+ },
+ {
   "id": "089A9030-6CE2-4820-AE1B-658B41561427",
   "title": "Torneo Città d'Italia#3 - Memorial Anna Sterchele",
   "days": [
