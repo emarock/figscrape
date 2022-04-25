@@ -7,8 +7,639 @@
    "20220424"
   ],
   "results": {
-   "20220423": [],
-   "20220424": []
+   "20220423": [
+    {
+     "players": [
+      "Elia Urbinati [9/16]",
+      "Andrea Selva [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Leonardo Grancelli [17/32]",
+      "Alex Rossato [9/16]"
+     ],
+     "games": [
+      "5-11",
+      "11-4",
+      "11-5",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [5/8]",
+      "Leonardo Pisetta [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Gabriele Valentini [17/32]",
+      "Kristjan Nano [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "9-11",
+      "11-2",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Riccardo Montagna [9/16]",
+      "Mattias Casoli [17/32]"
+     ],
+     "games": [
+      "11-8",
+      "11-5",
+      "8-11",
+      "9-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Mauro Rizzato [9/16]",
+      "Giacomo Cofler [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "Retired"
+     ]
+    },
+    {
+     "players": [
+      "Federico Miorelli [9/16]",
+      "Nicola Dallan [17/32]"
+     ],
+     "games": [
+      "11-1",
+      "11-0",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Michele Pacenza [9/16]",
+      "Valentino Rosales [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni Staurengo [9/16]",
+      "Dorian Uderzo [17/32]"
+     ],
+     "games": [
+      "11-4",
+      "11-3",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Staurengo [1]",
+      "Elia Urbinati [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [5/8]",
+      "Leonardo Grancelli [17/32]"
+     ],
+     "games": [
+      "11-8",
+      "11-6",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Alex Rossato [9/16]",
+      "Leonardo Pisetta [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "6-11",
+      "7-11",
+      "12-10",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [5/8]",
+      "Gabriele Valentini [17/32]"
+     ],
+     "games": [
+      "11-4",
+      "11-3",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Enrico Marocco [3/4]",
+      "Riccardo Montagna [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-5",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Gioele Comerio [3/4]",
+      "Mauro Rizzato [9/16]"
+     ],
+     "games": [
+      "11-0",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Marco Piccinino [5/8]",
+      "Federico Miorelli [9/16]"
+     ],
+     "games": [
+      "13-11",
+      "11-9",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Sturaro [5/8]",
+      "Michele Pacenza [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-8",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Corbani [2]",
+      "Giovanni Staurengo [9/16]"
+     ],
+     "games": [
+      "7-11",
+      "9-11",
+      "11-4",
+      "11-2",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Valentino Rosales [17/32]",
+      "Dorian Uderzo [17/32]"
+     ],
+     "games": [
+      "11-8",
+      "9-11",
+      "8-11",
+      "11-7",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Elia Urbinati [9/16]",
+      "Leonardo Grancelli [17/32]"
+     ],
+     "games": [
+      "11-6",
+      "11-8",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Kristjan Nano [9/16]",
+      "Mattias Casoli [17/32]"
+     ],
+     "games": [
+      "8-11",
+      "11-8",
+      "11-8",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Gabriele Valentini [17/32]",
+      "Riccardo Montagna [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Alex Rossato [9/16]",
+      "Andrea Selva [17/32]"
+     ],
+     "games": [
+      "11-0",
+      "11-2",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Mauro Rizzato [9/16]",
+      "Federico Miorelli [9/16]"
+     ],
+     "games": [
+      "2-11",
+      "11-5",
+      "11-8",
+      "9-11",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni Staurengo [9/16]",
+      "Michele Pacenza [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-6",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Karola Tallarico [3/4]",
+      "Beatrice Filippi [5/8]"
+     ],
+     "games": [
+      "11-9",
+      "11-8",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Elisa Zambon [2]",
+      "Nicole Bussola [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-0",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Cristina Merlassino [3/4]",
+      "Laura Gallo [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-1",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Staurengo [1]",
+      "Massimo Tolentino [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [5/8]",
+      "Enrico Marocco [3/4]"
+     ],
+     "games": [
+      "11-9",
+      "11-5",
+      "17-19",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Gioele Comerio [3/4]",
+      "Marco Piccinino [5/8]"
+     ],
+     "games": [
+      "9-11",
+      "11-5",
+      "12-10",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Corbani [2]",
+      "Filippo Sturaro [5/8]"
+     ],
+     "games": [
+      "11-6",
+      "11-9",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Kristjan Nano [9/16]",
+      "Alex Rossato [9/16]"
+     ],
+     "games": [
+      "9-11",
+      "11-8",
+      "3-11",
+      "11-7",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Valentino Rosales [17/32]",
+      "Nicola Dallan [17/32]"
+     ],
+     "games": [
+      "11-0",
+      "11-1",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Beatrice Filippi [5/8]",
+      "Nicole Bussola [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "14-12",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Mattias Casoli [17/32]",
+      "Andrea Selva [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-1"
+     ]
+    }
+   ],
+   "20220424": [
+    {
+     "players": [
+      "Gabriele Valentini [17/32]",
+      "Elia Urbinati [9/16]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni Staurengo [9/16]",
+      "Mauro Rizzato [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Laura Gallo [5/8]",
+      "Nicole Bussola [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "5-11",
+      "11-4",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Alex Rossato [9/16]",
+      "Nicola Dallan [17/32]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Enrico Marocco [3/4]",
+      "Massimo Tolentino [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "11-9",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Sturaro [5/8]",
+      "Marco Piccinino [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "14-12",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Cristina Merlassino [3/4]",
+      "Cecilia Elisabetta Vittorelli [1]"
+     ],
+     "games": [
+      "11-9",
+      "11-9",
+      "10-12",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Elisa Zambon [2]",
+      "Karola Tallarico [3/4]"
+     ],
+     "games": [
+      "11-9",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Staurengo [1]",
+      "Filippo Conti [5/8]"
+     ],
+     "games": [
+      "11-6",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Corbani [2]",
+      "Gioele Comerio [3/4]"
+     ],
+     "games": [
+      "11-8",
+      "11-8",
+      "11-13",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Valentino Rosales [17/32]",
+      "Kristjan Nano [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "4-11",
+      "11-8",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Beatrice Filippi [5/8]",
+      "Laura Gallo [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni Staurengo [9/16]",
+      "Gabriele Valentini [17/32]"
+     ],
+     "games": [
+      "11-4",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Enrico Marocco [3/4]",
+      "Filippo Sturaro [5/8]"
+     ],
+     "games": [
+      "9-11",
+      "11-9",
+      "11-7",
+      "4-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [5/8]",
+      "Marco Piccinino [5/8]"
+     ],
+     "games": [
+      "8-11",
+      "11-5",
+      "11-5",
+      "5-11",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Cristina Merlassino [3/4]",
+      "Elisa Zambon [2]"
+     ],
+     "games": [
+      "11-8",
+      "11-9",
+      "9-11",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Cecilia Elisabetta Vittorelli [1]",
+      "Karola Tallarico [3/4]"
+     ],
+     "games": [
+      "11-6",
+      "6-11",
+      "11-8",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Staurengo [1]",
+      "Lorenzo Corbani [2]"
+     ],
+     "games": [
+      "11-8",
+      "11-5",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [5/8]",
+      "Gioele Comerio [3/4]"
+     ],
+     "games": [
+      "15-13",
+      "11-5",
+      "2-11",
+      "8-11",
+      "11-6"
+     ]
+    }
+   ]
   }
  },
  {
