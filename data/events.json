@@ -1,14 +1,165 @@
 {
  "men": {
-  "07/05/2022 - 08/05/2022": {
-   "Giovanile - M": {
-    "count": 1,
+  "14/05/2022 - 15/05/2022": {
+   "Eccellenza - M - Città d'Italia": {
+    "count": 5,
     "players": [
+     {
+      "name": "Suryansh Kumar",
+      "team": "A.S.D. MILANO SQUASH ACADEMY",
+      "points": "881",
+      "ranking": 71
+     },
+     {
+      "name": "Monforte Sergio",
+      "team": "A.S.D. MILANO SQUASH ACADEMY",
+      "points": "557",
+      "ranking": 107
+     },
+     {
+      "name": "Cislaghi Francesco",
+      "team": "A.S.D. MILANO SQUASH ACADEMY",
+      "points": "410",
+      "ranking": 135
+     },
      {
       "name": "Conti Filippo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "397",
       "ranking": 139
+     },
+     {
+      "name": "Rettaroli Fabrizio",
+      "team": "A.S.D. MILANO SQUASH ACADEMY",
+      "points": "192",
+      "ranking": 204
+     }
+    ]
+   }
+  },
+  "07/05/2022 - 08/05/2022": {
+   "Giovanile - M": {
+    "count": 20,
+    "players": [
+     {
+      "name": "Morri Davide",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1557",
+      "ranking": 36
+     },
+     {
+      "name": "Corbani Lorenzo",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "552",
+      "ranking": 108
+     },
+     {
+      "name": "Chiappetta Carmine",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "310",
+      "ranking": 168
+     },
+     {
+      "name": "De Bartolomeo Simone",
+      "team": "A.S.D. SQUASH BARI",
+      "points": "242",
+      "ranking": 184
+     },
+     {
+      "name": "Marchese Ludovico",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "102",
+      "ranking": 225
+     },
+     {
+      "name": "Nano Kristjan",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "49",
+      "ranking": 243
+     },
+     {
+      "name": "Semprini Tobia",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 282
+     },
+     {
+      "name": "Cimarelli Thomas",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 293
+     },
+     {
+      "name": "Briscolini Lorenzo",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 311
+     },
+     {
+      "name": "De Benedetto Giorgio",
+      "team": "A.S.D. SQUASH BARI",
+      "points": "1",
+      "ranking": 317
+     },
+     {
+      "name": "Manna Giovambattista",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 321
+     },
+     {
+      "name": "Guzzo Saverio",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 345
+     },
+     {
+      "name": "Baldini Brando",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 370
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
+     },
+     {
+      "name": "Cusumano Christofer",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 398
+     },
+     {
+      "name": "Aiello Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 404
+     },
+     {
+      "name": "Trombetta Mauro",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 430
+     },
+     {
+      "name": "Robinson Maicon",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 437
+     },
+     {
+      "name": "Osso Luciano Giovanni",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 441
+     },
+     {
+      "name": "Passarelli Alessandro",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 455
      }
     ]
    }
@@ -57,7 +208,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -165,7 +316,7 @@
       "name": "Pisetta Leonardo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 390
+      "ranking": 396
      }
     ]
    }
@@ -408,7 +559,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Vadacchino Salvatore",
@@ -469,7 +620,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Nolesini Franck",
@@ -517,7 +668,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Corciu Ciprian",
@@ -590,7 +741,7 @@
   },
   "12/03/2022 - 13/03/2022": {
    "Giovanile M": {
-    "count": 31,
+    "count": 32,
     "players": [
      {
       "name": "Nanni Matteo",
@@ -638,7 +789,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Nano Kristjan",
@@ -698,61 +849,67 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Parolari Massimo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 300
+      "ranking": 297
      },
      {
-      "name": "Briscolini Lorenzo",
+      "name": "Russo Michael",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 299
      },
      {
       "name": "De Munari Alberto",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 316
+      "ranking": 308
+     },
+     {
+      "name": "Briscolini Lorenzo",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 311
      },
      {
       "name": "Fabris Gianmarco",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 332
+      "ranking": 336
      },
      {
       "name": "Valle Mattia",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 368
+      "ranking": 367
      },
      {
       "name": "Pisetta Leonardo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 390
+      "ranking": 396
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      },
      {
       "name": "Daprà Giovanni",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 417
+      "ranking": 424
      },
      {
       "name": "Cariolato Benedetto",
@@ -770,13 +927,13 @@
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      },
      {
       "name": "Fabris Riccardo",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 468
+      "ranking": 467
      }
     ]
    }
@@ -861,7 +1018,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Ugolini Pierluigi",
@@ -891,7 +1048,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Angelucci Giuseppe",
@@ -934,7 +1091,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Rancan Alberto",
@@ -1199,14 +1356,14 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      }
     ]
    }
   },
   "12/02/2022 - 13/02/2022": {
    "Giovanile - M": {
-    "count": 36,
+    "count": 37,
     "players": [
      {
       "name": "Morri Davide",
@@ -1266,7 +1423,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Nano Kristjan",
@@ -1314,79 +1471,85 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
-     },
-     {
-      "name": "Torresan Mirko",
-      "team": "VI.SQUASH A.S.D.",
-      "points": "1",
-      "ranking": 291
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Parolari Massimo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 300
+      "ranking": 297
      },
      {
-      "name": "Briscolini Lorenzo",
-      "team": "A.S.D. MONDO SQUASH",
+      "name": "Torresan Mirko",
+      "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 305
+      "ranking": 301
      },
      {
       "name": "De Munari Alberto",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 316
+      "ranking": 308
+     },
+     {
+      "name": "Briscolini Lorenzo",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 311
      },
      {
       "name": "Fabris Gianmarco",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 332
+      "ranking": 336
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
      },
      {
       "name": "Tonidandel Amedeo Giulio",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 370
+      "ranking": 369
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      },
      {
       "name": "Cascelli Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 387
+      "ranking": 393
      },
      {
       "name": "Ashaia Enea",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 389
+      "ranking": 395
      },
      {
       "name": "Pisetta Leonardo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 390
+      "ranking": 396
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      },
      {
       "name": "Trombetta Mauro",
@@ -1404,13 +1567,13 @@
       "name": "Lorenzi Pietro",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 441
+      "ranking": 439
      },
      {
       "name": "Osso Luciano Giovanni",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 443
+      "ranking": 441
      },
      {
       "name": "Passarelli Alessandro",
@@ -1422,7 +1585,7 @@
       "name": "Fabris Riccardo",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 468
+      "ranking": 467
      }
     ]
    }
@@ -1579,7 +1742,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pisano Pier Paolo",
@@ -1602,7 +1765,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Mussoni Giacomo",
@@ -1692,7 +1855,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Rettaroli Fabrizio",
@@ -1774,7 +1937,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pisano Pier Paolo",
@@ -1910,7 +2073,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Chiappetta Carmine",
@@ -1940,7 +2103,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      }
     ]
    }
@@ -2552,7 +2715,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -2696,7 +2859,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Rossato Alex",
@@ -2708,7 +2871,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Nano Kristjan",
@@ -2774,67 +2937,67 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
-     },
-     {
-      "name": "Cascelli Francesco",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 387
-     },
-     {
-      "name": "Ashaia Enea",
-      "team": "A.S.D. MONDO SQUASH",
-      "points": "1",
-      "ranking": 389
-     },
-     {
-      "name": "Pisetta Leonardo",
-      "team": "G.S. ARGENTARIO A.S.D.",
-      "points": "1",
-      "ranking": 390
+      "ranking": 345
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
+      "ranking": 391
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
+     },
+     {
+      "name": "Ashaia Enea",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
       "ranking": 395
      },
      {
-      "name": "Gusmano Davide",
-      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "name": "Pisetta Leonardo",
+      "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 404
+      "ranking": 396
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
+     },
+     {
+      "name": "Gusmano Davide",
+      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "points": "1",
+      "ranking": 411
      },
      {
       "name": "Trombetta Mauro",
@@ -2846,7 +3009,7 @@
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      },
      {
       "name": "Passarelli Alessandro",
@@ -3038,7 +3201,7 @@
       "name": "Iacovella Carmine",
       "team": "A.S.A.M. A.S.D.",
       "points": "1",
-      "ranking": 319
+      "ranking": 324
      }
     ]
    }
@@ -3703,7 +3866,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -4236,7 +4399,7 @@
   },
   "26/06/2021 - 27/06/2021": {
    "1a Categoria - M": {
-    "count": 17,
+    "count": 18,
     "players": [
      {
       "name": "Staurengo Lorenzo",
@@ -4284,7 +4447,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -4326,7 +4489,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Grasso Claudio",
@@ -4338,7 +4501,13 @@
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    }
@@ -4411,12 +4580,12 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      }
     ]
    },
    "Juniores - M": {
-    "count": 24,
+    "count": 25,
     "players": [
      {
       "name": "Corbani Lorenzo",
@@ -4458,7 +4627,7 @@
       "name": "Ostan Tommaso",
       "team": "SPORTITALIA S.S.D. A R.L.",
       "points": "60",
-      "ranking": 236
+      "ranking": 235
      },
      {
       "name": "Nano Kristjan",
@@ -4494,61 +4663,67 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
      },
      {
       "name": "Tonidandel Amedeo Giulio",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 370
+      "ranking": 369
      },
      {
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
      },
      {
       "name": "Penasa Leonardo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 381
+      "ranking": 386
      },
      {
       "name": "Ashaia Enea",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 389
+      "ranking": 395
      },
      {
       "name": "Pisetta Leonardo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 390
-     },
-     {
-      "name": "Gusmano Davide",
-      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
-      "points": "1",
-      "ranking": 404
+      "ranking": 396
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
+     },
+     {
+      "name": "Gusmano Davide",
+      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "points": "1",
+      "ranking": 411
      },
      {
       "name": "Trombetta Mauro",
@@ -4778,7 +4953,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -4849,7 +5024,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -4897,7 +5072,7 @@
       "name": "Rijken Laurens Hans",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "60",
-      "ranking": 235
+      "ranking": 236
      },
      {
       "name": "Corciu Ciprian",
@@ -4927,19 +5102,19 @@
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      },
      {
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    }
@@ -5065,7 +5240,7 @@
     ]
    },
    "Juniores - M": {
-    "count": 23,
+    "count": 24,
     "players": [
      {
       "name": "Corbani Lorenzo",
@@ -5143,61 +5318,67 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
-     },
-     {
-      "name": "Cascelli Francesco",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 387
-     },
-     {
-      "name": "Ashaia Enea",
-      "team": "A.S.D. MONDO SQUASH",
-      "points": "1",
-      "ranking": 389
-     },
-     {
-      "name": "Pisetta Leonardo",
-      "team": "G.S. ARGENTARIO A.S.D.",
-      "points": "1",
-      "ranking": 390
+      "ranking": 345
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
+      "ranking": 391
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
+     },
+     {
+      "name": "Ashaia Enea",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
       "ranking": 395
+     },
+     {
+      "name": "Pisetta Leonardo",
+      "team": "G.S. ARGENTARIO A.S.D.",
+      "points": "1",
+      "ranking": 396
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      },
      {
       "name": "Trombetta Mauro",
@@ -5294,18 +5475,18 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
    "Juniores - M": {
-    "count": 13,
+    "count": 15,
     "players": [
      {
       "name": "Staurengo Lorenzo",
@@ -5359,38 +5540,50 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      },
      {
       "name": "Ashaia Enea",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 389
+      "ranking": 395
      },
      {
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      },
      {
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    }
   },
   "06/03/2021 - 07/03/2021": {
    "1a Categoria - M": {
-    "count": 24,
+    "count": 26,
     "players": [
      {
       "name": "Codesido Perez Xurxo",
@@ -5450,7 +5643,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -5525,16 +5718,28 @@
       "ranking": 261
      },
      {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      },
      {
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    },
@@ -5689,7 +5894,7 @@
     ]
    },
    "Juniores - M": {
-    "count": 18,
+    "count": 20,
     "players": [
      {
       "name": "De Bartolomeo Daniele",
@@ -5743,47 +5948,59 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
+     },
+     {
+      "name": "Battaglia Oreste",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 391
      },
      {
       "name": "Cascelli Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 387
+      "ranking": 393
      },
      {
       "name": "Ashaia Enea",
       "team": "A.S.D. MONDO SQUASH",
-      "points": "1",
-      "ranking": 389
-     },
-     {
-      "name": "Battaglia Oreste",
-      "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
       "ranking": 395
      },
@@ -5797,7 +6014,7 @@
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    }
@@ -5887,7 +6104,7 @@
     ]
    },
    "1a Categoria - M": {
-    "count": 18,
+    "count": 19,
     "players": [
      {
       "name": "Nanni Matteo",
@@ -5929,7 +6146,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -5989,13 +6206,19 @@
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      },
      {
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    }
@@ -6742,7 +6965,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -6837,7 +7060,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      }
     ]
    }
@@ -6856,7 +7079,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Bezzi Fabio",
@@ -6943,7 +7166,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      },
      {
       "name": "Pansini Antonio",
@@ -7047,7 +7270,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Piccinino Marco",
@@ -7059,7 +7282,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -7113,7 +7336,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -7165,7 +7388,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      }
     ]
    }
@@ -7268,19 +7491,19 @@
       "name": "Laudani Tommaso Kaspar",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 303
+      "ranking": 309
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      },
      {
       "name": "Trombetta Mauro",
@@ -7341,13 +7564,13 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    }
@@ -7390,7 +7613,7 @@
       "name": "Rijken Laurens Hans",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "60",
-      "ranking": 235
+      "ranking": 236
      },
      {
       "name": "Corciu Ciprian",
@@ -7402,7 +7625,7 @@
       "name": "Biasi Cosimo",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "1",
-      "ranking": 330
+      "ranking": 334
      }
     ]
    }
@@ -7613,7 +7836,7 @@
       "name": "Siracusa Alfredo",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 331
+      "ranking": 335
      }
     ]
    }
@@ -7846,7 +8069,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -7887,7 +8110,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -7939,12 +8162,12 @@
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
      }
     ]
    },
    "Trofeo Regioni - Mondo C Riccione vs 2001 Padova": {
-    "count": 3,
+    "count": 5,
     "players": [
      {
       "name": "Sturaro Filippo",
@@ -7963,11 +8186,23 @@
       "team": "A.S.D. MONDO SQUASH",
       "points": "28",
       "ranking": 258
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    },
    "Trofeo Regioni - Mondo C Riccione vs Open Roma": {
-    "count": 3,
+    "count": 5,
     "players": [
      {
       "name": "Meta Marco",
@@ -7979,13 +8214,25 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Senatore Mattia Mario",
       "team": "A.S.D. MONDO SQUASH",
       "points": "28",
       "ranking": 258
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    }
@@ -8089,14 +8336,14 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
   },
   "08/02/2020 - 08/02/2020": {
    "Trofeo Regioni - Mondo A Riccione vs Mondo C Riccione": {
-    "count": 3,
+    "count": 5,
     "players": [
      {
       "name": "Nanni Matteo",
@@ -8115,6 +8362,18 @@
       "team": "A.S.D. MONDO SQUASH",
       "points": "28",
       "ranking": 258
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    },
@@ -8149,7 +8408,7 @@
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
      }
     ]
    },
@@ -8219,12 +8478,12 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
    "Trofeo Regioni - Squash Club Pesaro vs Mondo C Riccione": {
-    "count": 3,
+    "count": 5,
     "players": [
      {
       "name": "Baioni Andrea",
@@ -8236,13 +8495,25 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      },
      {
       "name": "Senatore Mattia Mario",
       "team": "A.S.D. MONDO SQUASH",
       "points": "28",
       "ranking": 258
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    },
@@ -8277,7 +8548,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    },
@@ -8323,7 +8594,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Casoli Mattias",
@@ -8335,12 +8606,12 @@
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
      }
     ]
    },
    "Trofeo Regioni - Mondo C Riccione vs Mondo B Riccione": {
-    "count": 2,
+    "count": 4,
     "players": [
      {
       "name": "Senatore Mattia Mario",
@@ -8353,6 +8624,18 @@
       "team": "A.S.D. MONDO SQUASH",
       "points": "23",
       "ranking": 261
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
+      "name": "Gaviani Francesco",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 382
      }
     ]
    }
@@ -8556,13 +8839,13 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    }
@@ -8926,7 +9209,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    }
@@ -9158,7 +9441,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    },
@@ -9289,7 +9572,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Elli Luca",
@@ -9378,7 +9661,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -9555,7 +9838,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Angelucci Giuseppe",
@@ -9567,7 +9850,7 @@
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    },
@@ -9626,13 +9909,13 @@
       "name": "Rijken Laurens Hans",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "60",
-      "ranking": 235
+      "ranking": 236
      },
      {
       "name": "Biasi Cosimo",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "1",
-      "ranking": 330
+      "ranking": 334
      }
     ]
    }
@@ -9663,13 +9946,13 @@
       "name": "Ferrami Pierluigi",
       "team": "A.S.D. COSENZA SQUASH",
       "points": "1",
-      "ranking": 294
+      "ranking": 291
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      }
     ]
    },
@@ -9680,7 +9963,7 @@
       "name": "Filice Gianfranco Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 299
+      "ranking": 296
      },
      {
       "name": "Passarelli Alessandro",
@@ -9697,37 +9980,37 @@
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
-     },
-     {
-      "name": "Cascelli Francesco",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 387
+      "ranking": 345
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
      },
      {
       "name": "Aiello Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 397
+      "ranking": 404
      },
      {
       "name": "Trombetta Mauro",
@@ -10172,7 +10455,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Angelucci Giuseppe",
@@ -10184,7 +10467,7 @@
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    },
@@ -10247,7 +10530,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -10330,7 +10613,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Pignataro Pasquale",
@@ -10366,7 +10649,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    },
@@ -10439,7 +10722,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -10482,7 +10765,7 @@
       "name": "Biasi Cosimo",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "1",
-      "ranking": 330
+      "ranking": 334
      }
     ]
    }
@@ -10543,7 +10826,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    }
@@ -10694,7 +10977,7 @@
       "name": "Tolentino Massimo",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "314",
-      "ranking": 165
+      "ranking": 164
      },
      {
       "name": "Caci Marco Francesco Antonio",
@@ -10783,7 +11066,7 @@
       "name": "Brecciaroli Fabio",
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "209",
-      "ranking": 194
+      "ranking": 195
      }
     ]
    }
@@ -11051,7 +11334,7 @@
     ]
    },
    "Giovanile Grand Prix M/F": {
-    "count": 37,
+    "count": 39,
     "players": [
      {
       "name": "Mulazzani Mattia",
@@ -11207,49 +11490,61 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
+     },
+     {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
      },
      {
       "name": "Zoppi Alessio",
       "team": "VERSILIA SQUASH S.S.D. A R.L.",
       "points": "1",
-      "ranking": 355
+      "ranking": 353
      },
      {
       "name": "Tonidandel Amedeo Giulio",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 370
+      "ranking": 369
      },
      {
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
+     },
+     {
+      "name": "Zoppi Gianluca",
+      "team": "VERSILIA SQUASH S.S.D. A R.L.",
+      "points": "1",
+      "ranking": 418
      },
      {
       "name": "Trombetta Mauro",
@@ -11267,13 +11562,13 @@
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      },
      {
       "name": "Baldacci Alessandro",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 445
+      "ranking": 443
      }
     ]
    },
@@ -11314,12 +11609,12 @@
       "name": "Zoppi Alessio",
       "team": "VERSILIA SQUASH S.S.D. A R.L.",
       "points": "1",
-      "ranking": 355
+      "ranking": 353
      }
     ]
    },
    "Grand Prix Giovanissimi - M   ": {
-    "count": 16,
+    "count": 17,
     "players": [
      {
       "name": "Nanni Matteo",
@@ -11394,16 +11689,22 @@
       "ranking": 270
      },
      {
+      "name": "Ferri Simone",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 298
+     },
+     {
       "name": "Tonidandel Amedeo Giulio",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 370
+      "ranking": 369
      },
      {
       "name": "Baldini Brando",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 371
+      "ranking": 370
      },
      {
       "name": "Cariolato Benedetto",
@@ -11415,12 +11716,12 @@
       "name": "Baldacci Alessandro",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 445
+      "ranking": 443
      }
     ]
    },
    "Grand Prix Esordienti - M": {
-    "count": 11,
+    "count": 12,
     "players": [
      {
       "name": "Conti Filippo",
@@ -11450,31 +11751,37 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Briscolini Lorenzo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 305
+      "ranking": 311
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
+     },
+     {
+      "name": "Zoppi Gianluca",
+      "team": "VERSILIA SQUASH S.S.D. A R.L.",
+      "points": "1",
+      "ranking": 418
      },
      {
       "name": "Trombetta Mauro",
@@ -11486,7 +11793,7 @@
       "name": "Russo Francesco",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 444
+      "ranking": 442
      }
     ]
    },
@@ -11497,13 +11804,13 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Parolari Massimo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 300
+      "ranking": 297
      }
     ]
    }
@@ -11623,7 +11930,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Pellecchia Luciano",
@@ -11714,7 +12021,7 @@
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
      }
     ]
    }
@@ -12223,7 +12530,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -12420,7 +12727,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -12523,7 +12830,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Ferrini Filippo",
@@ -12823,7 +13130,7 @@
       "name": "Guidi Federico",
       "team": "A.S.D. SCHILLING SQUASH & GYM",
       "points": "1",
-      "ranking": 347
+      "ranking": 346
      }
     ]
    },
@@ -12894,13 +13201,13 @@
       "name": "Parolari Massimo",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 300
+      "ranking": 297
      },
      {
       "name": "Tonidandel Amedeo Giulio",
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "1",
-      "ranking": 370
+      "ranking": 369
      },
      {
       "name": "Cariolato Benedetto",
@@ -12912,7 +13219,7 @@
       "name": "Lorenzi Pietro",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 441
+      "ranking": 439
      }
     ]
    }
@@ -12949,37 +13256,37 @@
       "name": "Vasaturo Pasquale",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 286
+      "ranking": 285
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
-     },
-     {
-      "name": "Cascelli Francesco",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 387
+      "ranking": 345
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
      },
      {
       "name": "Trombetta Mauro",
@@ -13918,7 +14225,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -14313,7 +14620,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Angelucci Giuseppe",
@@ -14325,7 +14632,7 @@
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    }
@@ -14391,7 +14698,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Pellecchia Luciano",
@@ -14482,7 +14789,7 @@
       "name": "Zoppi Alessio",
       "team": "VERSILIA SQUASH S.S.D. A R.L.",
       "points": "1",
-      "ranking": 355
+      "ranking": 353
      }
     ]
    },
@@ -14580,7 +14887,7 @@
     ]
    },
    "Festival Nazionale Cat. Esordienti U.13 - M": {
-    "count": 17,
+    "count": 18,
     "players": [
      {
       "name": "Staurengo Lorenzo",
@@ -14634,49 +14941,55 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
      },
      {
       "name": "Cecchetti Riccardo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 358
-     },
-     {
-      "name": "Cascelli Francesco",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 387
+      "ranking": 356
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
+     },
+     {
+      "name": "Cascelli Francesco",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 393
+     },
+     {
+      "name": "Zoppi Gianluca",
+      "team": "VERSILIA SQUASH S.S.D. A R.L.",
+      "points": "1",
+      "ranking": 418
      },
      {
       "name": "Trombetta Mauro",
@@ -14875,7 +15188,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -14991,7 +15304,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -15163,7 +15476,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -15254,7 +15567,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -16049,7 +16362,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -16202,7 +16515,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -16248,43 +16561,43 @@
       "name": "Filice Gianfranco Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 299
+      "ranking": 296
      },
      {
       "name": "Laudani Tommaso Kaspar",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 303
+      "ranking": 309
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Guzzo Saverio",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 346
+      "ranking": 345
      },
      {
       "name": "Cascelli Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 387
+      "ranking": 393
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      },
      {
       "name": "Trombetta Mauro",
@@ -16296,7 +16609,7 @@
       "name": "Osso Luciano Giovanni",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 443
+      "ranking": 441
      }
     ]
    },
@@ -16921,7 +17234,7 @@
       "name": "Morettin Jonny",
       "team": "EUROSPORTING CORDENONS S.S.D. a R.L.",
       "points": "1",
-      "ranking": 373
+      "ranking": 372
      }
     ]
    }
@@ -17072,7 +17385,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -17112,7 +17425,7 @@
       "name": "Ferrami Pierluigi",
       "team": "A.S.D. COSENZA SQUASH",
       "points": "1",
-      "ranking": 294
+      "ranking": 291
      }
     ]
    }
@@ -17173,7 +17486,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Pignataro Pasquale",
@@ -17209,7 +17522,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    },
@@ -17321,7 +17634,7 @@
     ]
    },
    "Festival Esordienti - M/F": {
-    "count": 7,
+    "count": 8,
     "players": [
      {
       "name": "Staurengo Lorenzo",
@@ -17345,25 +17658,31 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      },
      {
       "name": "Cecchetti Riccardo",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 358
+      "ranking": 356
+     },
+     {
+      "name": "Zoppi Gianluca",
+      "team": "VERSILIA SQUASH S.S.D. A R.L.",
+      "points": "1",
+      "ranking": 418
      }
     ]
    }
@@ -17490,7 +17809,20 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
+     }
+    ]
+   }
+  },
+  "24/01/2019 - 24/01/2019": {
+   "1a Categoria - Scorpion 1 vs Castrolibero": {
+    "count": 1,
+    "players": [
+     {
+      "name": "Vadicamo Francesco",
+      "team": "A.S.D. COSENZA SQUASH",
+      "points": "1",
+      "ranking": 280
      }
     ]
    }
@@ -17663,7 +17995,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -17680,7 +18012,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -17823,7 +18155,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -18020,7 +18352,7 @@
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
      }
     ]
    },
@@ -18177,7 +18509,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -18237,7 +18569,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -18297,7 +18629,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Vadacchino Salvatore",
@@ -18309,31 +18641,31 @@
       "name": "Filice Gianfranco Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 299
+      "ranking": 296
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Cascelli Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 387
+      "ranking": 393
      },
      {
       "name": "Aiello Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 397
+      "ranking": 404
      }
     ]
    }
@@ -18437,7 +18769,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -18531,37 +18863,37 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      },
      {
       "name": "Cascelli Francesco",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 387
+      "ranking": 393
      }
     ]
    }
@@ -18730,7 +19062,7 @@
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    },
@@ -18784,7 +19116,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -18852,7 +19184,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -18933,7 +19265,7 @@
       "name": "Guidi Federico",
       "team": "A.S.D. SCHILLING SQUASH & GYM",
       "points": "1",
-      "ranking": 347
+      "ranking": 346
      }
     ]
    }
@@ -18971,7 +19303,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    },
@@ -19042,7 +19374,7 @@
       "name": "Rijken Laurens Hans",
       "team": "PROSPORT TORINO S.R.L. S.S.D.",
       "points": "60",
-      "ranking": 235
+      "ranking": 236
      }
     ]
    }
@@ -19144,7 +19476,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Biasiotto Guido",
@@ -19186,7 +19518,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -19216,7 +19548,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -19307,13 +19639,13 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      },
      {
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
      }
     ]
    },
@@ -19575,7 +19907,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Ricapito Lorenzo",
@@ -19652,31 +19984,31 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      }
     ]
    },
@@ -19867,7 +20199,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Ricapito Lorenzo",
@@ -19897,7 +20229,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -19970,7 +20302,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Angelucci Giuseppe",
@@ -19982,7 +20314,7 @@
       "name": "Moscetta Alessandro",
       "team": "A.S.D. OPEN SQUASH",
       "points": "1",
-      "ranking": 348
+      "ranking": 347
      }
     ]
    }
@@ -20121,19 +20453,19 @@
       "name": "Semprini Tobia",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 283
+      "ranking": 282
      },
      {
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      }
     ]
    },
@@ -20313,7 +20645,7 @@
       "name": "Fedele Agostino",
       "team": "A.S.D. SQUASH BARI",
       "points": "314",
-      "ranking": 164
+      "ranking": 165
      },
      {
       "name": "Pignataro Pasquale",
@@ -20331,7 +20663,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    },
@@ -21373,7 +21705,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -21692,7 +22024,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -21824,7 +22156,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -21942,7 +22274,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -21954,7 +22286,7 @@
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    }
@@ -22349,7 +22681,7 @@
     ]
    },
    "Giovanile M/F": {
-    "count": 2,
+    "count": 3,
     "players": [
      {
       "name": "Marcantonio Luigi Davide",
@@ -22361,7 +22693,13 @@
       "name": "Zoppi Alessio",
       "team": "VERSILIA SQUASH S.S.D. A R.L.",
       "points": "1",
-      "ranking": 355
+      "ranking": 353
+     },
+     {
+      "name": "Zoppi Gianluca",
+      "team": "VERSILIA SQUASH S.S.D. A R.L.",
+      "points": "1",
+      "ranking": 418
      }
     ]
    }
@@ -22605,7 +22943,7 @@
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    }
@@ -22731,7 +23069,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    },
@@ -22789,7 +23127,7 @@
       "name": "Lorenzi Pietro",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 441
+      "ranking": 439
      }
     ]
    }
@@ -24200,7 +24538,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -24218,31 +24556,31 @@
       "name": "Manna Giovambattista",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 329
+      "ranking": 321
      },
      {
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    },
@@ -24606,7 +24944,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -24749,13 +25087,13 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      },
      {
       "name": "Benelli Jarno",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 345
+      "ranking": 344
      }
     ]
    }
@@ -24973,7 +25311,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      },
      {
       "name": "Freschi Massimo",
@@ -24985,7 +25323,7 @@
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
      }
     ]
    }
@@ -25188,7 +25526,7 @@
       "name": "Cimarelli Thomas",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 296
+      "ranking": 293
      }
     ]
    },
@@ -25403,7 +25741,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -25421,13 +25759,13 @@
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
      }
     ]
    }
@@ -25824,7 +26162,7 @@
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    }
@@ -26126,7 +26464,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -26150,19 +26488,19 @@
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Battaglia Oreste",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 395
+      "ranking": 391
      },
      {
       "name": "Osso Luciano Giovanni",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 443
+      "ranking": 441
      }
     ]
    }
@@ -26192,7 +26530,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -26740,7 +27078,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    },
@@ -26876,7 +27214,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    },
@@ -27018,7 +27356,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -27333,7 +27671,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    },
@@ -27474,13 +27812,13 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      },
      {
       "name": "Livio Stefano",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 386
+      "ranking": 379
      }
     ]
    },
@@ -27656,7 +27994,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -29853,7 +30191,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -30621,23 +30959,6 @@
      }
     ]
    },
-   "1a Categoria - Finale - Mondo Riccione vs Bistutigre Como": {
-    "count": 2,
-    "players": [
-     {
-      "name": "Urbinati Alessandro",
-      "team": "A.S.D. MONDO SQUASH",
-      "points": "1602",
-      "ranking": 31
-     },
-     {
-      "name": "Gataullin Saian",
-      "team": "A.S.D. MONDO SQUASH",
-      "points": "823",
-      "ranking": 75
-     }
-    ]
-   },
    "1a Categoria - Finale - Mondo Riccione vs S.C. Pesaro": {
     "count": 4,
     "players": [
@@ -30664,6 +30985,23 @@
       "team": "A.S.D. SQUASH CLUB PESARO",
       "points": "314",
       "ranking": 167
+     }
+    ]
+   },
+   "1a Categoria - Finale - Mondo Riccione vs Bistutigre Como": {
+    "count": 2,
+    "players": [
+     {
+      "name": "Urbinati Alessandro",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1602",
+      "ranking": 31
+     },
+     {
+      "name": "Gataullin Saian",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "823",
+      "ranking": 75
      }
     ]
    },
@@ -30701,17 +31039,6 @@
      }
     ]
    },
-   "1a Categoria - Finale - New S.C. Catania vs S.C. Padova": {
-    "count": 1,
-    "players": [
-     {
-      "name": "Gusmano Michele",
-      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
-      "points": "823",
-      "ranking": 74
-     }
-    ]
-   },
    "1a Categoria - Finale - New S.C. Catania vs Pegaso Cornedo": {
     "count": 2,
     "players": [
@@ -30726,6 +31053,17 @@
       "team": "G.S. ARGENTARIO A.S.D.",
       "points": "675",
       "ranking": 91
+     }
+    ]
+   },
+   "1a Categoria - Finale - New S.C. Catania vs S.C. Padova": {
+    "count": 1,
+    "players": [
+     {
+      "name": "Gusmano Michele",
+      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "points": "823",
+      "ranking": 74
      }
     ]
    },
@@ -31411,7 +31749,7 @@
       "name": "Lorenzi Pietro",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 441
+      "ranking": 439
      }
     ]
    },
@@ -31936,23 +32274,6 @@
      }
     ]
    },
-   "Assoluto 1a - Pegaso Cornedo vs New S.C. Catania": {
-    "count": 2,
-    "players": [
-     {
-      "name": "Garbi Alejandro",
-      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
-      "points": "3546",
-      "ranking": 5
-     },
-     {
-      "name": "Menichetti Attilio",
-      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
-      "points": "1586",
-      "ranking": 34
-     }
-    ]
-   },
    "Assoluto 1a - New S.C. Catania vs 2001 Padova": {
     "count": 2,
     "players": [
@@ -31967,6 +32288,23 @@
       "team": "S.S.D. 2001 S.R.L.",
       "points": "3262",
       "ranking": 7
+     }
+    ]
+   },
+   "Assoluto 1a - Pegaso Cornedo vs New S.C. Catania": {
+    "count": 2,
+    "players": [
+     {
+      "name": "Garbi Alejandro",
+      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "points": "3546",
+      "ranking": 5
+     },
+     {
+      "name": "Menichetti Attilio",
+      "team": "A.S.D. NEW SQUASH CLUB CATANIA",
+      "points": "1586",
+      "ranking": 34
      }
     ]
    },
@@ -32218,7 +32556,7 @@
       "name": "Lorenzi Pietro",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 441
+      "ranking": 439
      }
     ]
    }
@@ -32538,7 +32876,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -32556,19 +32894,19 @@
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    },
@@ -32884,7 +33222,7 @@
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -33012,7 +33350,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -33533,7 +33871,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -33676,7 +34014,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    }
@@ -34547,7 +34885,7 @@
       "name": "Crestani Alessandro",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 408
+      "ranking": 400
      }
     ]
    },
@@ -34781,7 +35119,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Senatore Mattia Mario",
@@ -37463,7 +37801,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Scaranello Patrick Maria",
@@ -37556,17 +37894,6 @@
      }
     ]
    },
-   "1a Categoria - D - CS-Scorpion vs BO-S.C. 1976 ": {
-    "count": 1,
-    "players": [
-     {
-      "name": "Belvedere Federico",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1621",
-      "ranking": 29
-     }
-    ]
-   },
    "1a Categoria - Fin.1 - VI-Pegaso vs CS-Scorpion": {
     "count": 2,
     "players": [
@@ -37581,6 +37908,17 @@
       "team": "A.S.D. SQUASH CLUB PEGASO VICENZA",
       "points": "1207",
       "ranking": 52
+     }
+    ]
+   },
+   "1a Categoria - D - CS-Scorpion vs BO-S.C. 1976 ": {
+    "count": 1,
+    "players": [
+     {
+      "name": "Belvedere Federico",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1621",
+      "ranking": 29
      }
     ]
    },
@@ -37712,7 +38050,7 @@
      }
     ]
    },
-   "1a Categoria - A - CT-New S.C. vs RM-Freetime": {
+   "1a Categoria - Fin.11 - CT-New S.C. vs PN-Euro&Sports": {
     "count": 1,
     "players": [
      {
@@ -37723,7 +38061,7 @@
      }
     ]
    },
-   "1a Categoria - Fin.11 - CT-New S.C. vs PN-Euro&Sports": {
+   "1a Categoria - A - CT-New S.C. vs RM-Freetime": {
     "count": 1,
     "players": [
      {
@@ -38055,7 +38393,7 @@
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      }
     ]
    }
@@ -39172,7 +39510,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -39196,19 +39534,19 @@
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    }
@@ -39452,13 +39790,13 @@
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    }
@@ -39718,7 +40056,7 @@
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      }
     ]
    }
@@ -40008,7 +40346,7 @@
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      }
     ]
    },
@@ -40518,7 +40856,7 @@
       "name": "Marchese Ludovico",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "102",
-      "ranking": 226
+      "ranking": 225
      },
      {
       "name": "Pansini Antonio",
@@ -40554,13 +40892,13 @@
       "name": "Ferrami Paolo",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 335
+      "ranking": 330
      },
      {
       "name": "Adamo Alessandro Maria",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 341
+      "ranking": 340
      }
     ]
    }
@@ -40756,7 +41094,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    }
@@ -40895,7 +41233,7 @@
       "name": "Cusumano Christofer",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 406
+      "ranking": 398
      }
     ]
    },
@@ -41333,7 +41671,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    }
@@ -41533,13 +41871,13 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -41907,13 +42245,13 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -42858,7 +43196,7 @@
       "name": "Bottan Federico",
       "team": "A.S.D. HALLEY SQUASH",
       "points": "1",
-      "ranking": 324
+      "ranking": 329
      }
     ]
    }
@@ -43943,13 +44281,13 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -44163,7 +44501,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -44680,7 +45018,7 @@
       "name": "Gusmano Davide",
       "team": "A.S.D. NEW SQUASH CLUB CATANIA",
       "points": "1",
-      "ranking": 404
+      "ranking": 411
      }
     ]
    },
@@ -45427,7 +45765,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -45604,7 +45942,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    },
@@ -45704,19 +46042,19 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -45769,7 +46107,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -45861,7 +46199,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -45939,7 +46277,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    }
@@ -45977,7 +46315,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -46117,7 +46455,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Mussoni Giacomo",
@@ -47102,19 +47440,19 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -47189,6 +47527,41 @@
      }
     ]
    },
+   "Coppa Italia Squadre 2a/B Borderline-Pegaso": {
+    "count": 5,
+    "players": [
+     {
+      "name": "Frigo Cristiano",
+      "team": "A.S.D. SQUASH CLUB PEGASO VICENZA",
+      "points": "1263",
+      "ranking": 48
+     },
+     {
+      "name": "Vigolo Stefano",
+      "team": "A.S.D. SQUASH CLUB PEGASO VICENZA",
+      "points": "1110",
+      "ranking": 57
+     },
+     {
+      "name": "Salamone Sauro",
+      "team": "A.S.D. BORDERLINE SQUASH TEAM",
+      "points": "599",
+      "ranking": 100
+     },
+     {
+      "name": "Musiani Gianluca",
+      "team": "A.S.D. BORDERLINE SQUASH TEAM",
+      "points": "534",
+      "ranking": 112
+     },
+     {
+      "name": "Spettoli Pier Maria",
+      "team": "A.S.D. BORDERLINE SQUASH TEAM",
+      "points": "526",
+      "ranking": 115
+     }
+    ]
+   },
    "Coppa Italia a Squadre - Girone B": {
     "count": 7,
     "players": [
@@ -47233,41 +47606,6 @@
       "team": "A.S.D. BORDERLINE SQUASH TEAM",
       "points": "322",
       "ranking": 159
-     }
-    ]
-   },
-   "Coppa Italia Squadre 2a/B Borderline-Pegaso": {
-    "count": 5,
-    "players": [
-     {
-      "name": "Frigo Cristiano",
-      "team": "A.S.D. SQUASH CLUB PEGASO VICENZA",
-      "points": "1263",
-      "ranking": 48
-     },
-     {
-      "name": "Vigolo Stefano",
-      "team": "A.S.D. SQUASH CLUB PEGASO VICENZA",
-      "points": "1110",
-      "ranking": 57
-     },
-     {
-      "name": "Salamone Sauro",
-      "team": "A.S.D. BORDERLINE SQUASH TEAM",
-      "points": "599",
-      "ranking": 100
-     },
-     {
-      "name": "Musiani Gianluca",
-      "team": "A.S.D. BORDERLINE SQUASH TEAM",
-      "points": "534",
-      "ranking": 112
-     },
-     {
-      "name": "Spettoli Pier Maria",
-      "team": "A.S.D. BORDERLINE SQUASH TEAM",
-      "points": "526",
-      "ranking": 115
      }
     ]
    },
@@ -47382,7 +47720,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    }
@@ -47915,13 +48253,13 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -47977,7 +48315,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    }
@@ -48181,7 +48519,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. F9° Border2-Bo1976": {
+   "Camp. Ital.1^ Cat. Sq./A Border2-Versilia": {
     "count": 1,
     "players": [
      {
@@ -48192,7 +48530,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. Sq./A Border2-Versilia": {
+   "Camp. Ital.1^ Cat. F9° Border2-Bo1976": {
     "count": 1,
     "players": [
      {
@@ -48980,19 +49318,19 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -49011,7 +49349,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    },
@@ -49022,7 +49360,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -49121,7 +49459,7 @@
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    },
@@ -49185,7 +49523,7 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
@@ -49775,7 +50113,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    },
@@ -49949,7 +50287,7 @@
       "name": "Sammartino Massimo",
       "team": "A.S.D. OPEN SQUASH",
       "points": "102",
-      "ranking": 225
+      "ranking": 226
      }
     ]
    }
@@ -50046,7 +50384,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    },
@@ -50099,13 +50437,13 @@
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      },
      {
       "name": "Muti Nicola",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 448
+      "ranking": 446
      }
     ]
    }
@@ -51101,7 +51439,7 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      }
     ]
    }
@@ -51173,7 +51511,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -51312,7 +51650,7 @@
       "name": "Di Perna Claudio",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 357
+      "ranking": 355
      }
     ]
    }
@@ -51691,19 +52029,98 @@
       "name": "Campobasso Losacco Carmine",
       "team": "A.S.D. SQUASH BARI",
       "points": "209",
-      "ranking": 195
+      "ranking": 194
      },
      {
       "name": "Giannini Luigi",
       "team": "A.S.D. SQUASH BARI",
       "points": "1",
-      "ranking": 287
+      "ranking": 286
      }
     ]
    }
   }
  },
  "women": {
+  "07/05/2022 - 08/05/2022": {
+   "Giovanile - F": {
+    "count": 12,
+    "players": [
+     {
+      "name": "Vercillo Gemma",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "271",
+      "ranking": 35
+     },
+     {
+      "name": "Tallarico Karola",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "163",
+      "ranking": 44
+     },
+     {
+      "name": "Miceli Flavia",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "104",
+      "ranking": 50
+     },
+     {
+      "name": "Pacilli Sofia Elena",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "96",
+      "ranking": 51
+     },
+     {
+      "name": "Maiolino Alice",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "93",
+      "ranking": 52
+     },
+     {
+      "name": "Ceci Vittoria",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "78",
+      "ranking": 56
+     },
+     {
+      "name": "Miceli Giulia",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "66",
+      "ranking": 59
+     },
+     {
+      "name": "Sanchini Giada",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "49",
+      "ranking": 63
+     },
+     {
+      "name": "Salahub Daryna",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 93
+     },
+     {
+      "name": "Leporace Amelia",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 103
+     },
+     {
+      "name": "Zanchiello Martina",
+      "team": "A.S.D. MONDO SQUASH",
+      "points": "1",
+      "ranking": 131
+     },
+     {
+      "name": "Salerno Ludovica",
+      "team": "A.S.D. SQUASH SCORPION",
+      "points": "1",
+      "ranking": 166
+     }
+    ]
+   }
+  },
   "23/04/2022 - 24/04/2022": {
    "1^ Cat. - F - Città d'Italia": {
     "count": 8,
@@ -52010,7 +52427,7 @@
       "name": "Rettaroli Giada",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "1",
-      "ranking": 88
+      "ranking": 90
      },
      {
       "name": "Gasparini Sara",
@@ -52022,13 +52439,13 @@
       "name": "Zanchiello Martina",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 134
+      "ranking": 131
      },
      {
       "name": "Gasparini Asia",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 137
+      "ranking": 139
      }
     ]
    }
@@ -52175,13 +52592,13 @@
       "name": "Gasparini Asia",
       "team": "VI.SQUASH A.S.D.",
       "points": "1",
-      "ranking": 137
+      "ranking": 139
      },
      {
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      },
      {
       "name": "Salerno Ludovica",
@@ -52723,19 +53140,19 @@
       "name": "Galli Martina",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 81
+      "ranking": 82
      },
      {
       "name": "Rettaroli Giada",
       "team": "A.S.D. MILANO SQUASH ACADEMY",
       "points": "1",
-      "ranking": 88
+      "ranking": 90
      },
      {
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      },
      {
       "name": "Salerno Ludovica",
@@ -53580,7 +53997,7 @@
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      },
      {
       "name": "Pana Alessandra",
@@ -53851,13 +54268,13 @@
       "name": "Galli Martina",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 81
+      "ranking": 82
      },
      {
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      }
     ]
    }
@@ -55834,7 +56251,7 @@
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      },
      {
       "name": "Pana Alessandra",
@@ -55916,7 +56333,7 @@
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
+      "ranking": 145
      },
      {
       "name": "Pana Alessandra",
@@ -56993,12 +57410,12 @@
       "name": "Candelieri Francesca",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 94
+      "ranking": 96
      }
     ]
    },
    "Festival Nazionale Cat. Esordienti U.13 - F": {
-    "count": 7,
+    "count": 6,
     "players": [
      {
       "name": "Reniero Gioia",
@@ -57028,13 +57445,7 @@
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
-     },
-     {
-      "name": "Ferrato Rosanna",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 163
+      "ranking": 145
      },
      {
       "name": "Pana Alessandra",
@@ -58301,7 +58712,7 @@
   },
   "15/12/2018 - 16/12/2018": {
    "Giovanile - M/F": {
-    "count": 8,
+    "count": 7,
     "players": [
      {
       "name": "Tartarone Cristina",
@@ -58343,13 +58754,7 @@
       "name": "Candelieri Federica",
       "team": "A.S.D. SQUASH SCORPION",
       "points": "1",
-      "ranking": 143
-     },
-     {
-      "name": "Ferrato Rosanna",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 163
+      "ranking": 145
      }
     ]
    }
@@ -59481,7 +59886,7 @@
     ]
    },
    "Festival Nazionale Cat. Esordienti U.13 F": {
-    "count": 5,
+    "count": 4,
     "players": [
      {
       "name": "Vercillo Gemma",
@@ -59506,12 +59911,6 @@
       "team": "A.S.D. SQUASH SCORPION",
       "points": "93",
       "ranking": 52
-     },
-     {
-      "name": "Ferrato Rosanna",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 163
      }
     ]
    }
@@ -60027,7 +60426,7 @@
   },
   "03/03/2018 - 04/03/2018": {
    "Giovanile M/F Platino": {
-    "count": 8,
+    "count": 7,
     "players": [
      {
       "name": "De Marco Stella",
@@ -60070,12 +60469,6 @@
       "team": "A.S.D. SQUASH SCORPION",
       "points": "11",
       "ranking": 68
-     },
-     {
-      "name": "Ferrato Rosanna",
-      "team": "A.S.D. SQUASH SCORPION",
-      "points": "1",
-      "ranking": 163
      }
     ]
    }
@@ -66099,7 +66492,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    }
@@ -66172,7 +66565,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    }
@@ -66420,7 +66813,7 @@
       "name": "Barnham Nicole",
       "team": "A.S.D. MONDO SQUASH",
       "points": "1",
-      "ranking": 99
+      "ranking": 94
      }
     ]
    }
@@ -66794,7 +67187,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. Sq./C Bo1976-S.C.Rm": {
+   "Camp. Ital.1^ Cat. F7° Versilia-S.C.Rm": {
     "count": 1,
     "players": [
      {
@@ -66805,7 +67198,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. F7° Versilia-S.C.Rm": {
+   "Camp. Ital.1^ Cat. Sq./C Bo1976-S.C.Rm": {
     "count": 1,
     "players": [
      {
@@ -67029,7 +67422,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. Sq./D Pegaso-Athenae": {
+   "Camp. Ital.1^ Cat. F3° 2001-Pegaso": {
     "count": 1,
     "players": [
      {
@@ -67040,7 +67433,7 @@
      }
     ]
    },
-   "Camp. Ital.1^ Cat. F3° 2001-Pegaso": {
+   "Camp. Ital.1^ Cat. Sq./D Pegaso-Athenae": {
     "count": 1,
     "players": [
      {
@@ -67176,7 +67569,7 @@
      }
     ]
    },
-   "Coppa Italia a Squadre - 1a Girone B": {
+   "Coppa Italia Squadre 1a/B Halley-Pegaso": {
     "count": 1,
     "players": [
      {
@@ -67187,7 +67580,7 @@
      }
     ]
    },
-   "Coppa Italia Squadre 1a/B Halley-Pegaso": {
+   "Coppa Italia a Squadre - 1a Girone B": {
     "count": 1,
     "players": [
      {
@@ -67616,7 +68009,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    },
@@ -67782,7 +68175,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    }
@@ -68024,7 +68417,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    },
@@ -68096,7 +68489,7 @@
       "name": "De Marzi Barbara",
       "team": "A.S.D. MAX VICENZA SQUASH TEAM",
       "points": "1",
-      "ranking": 149
+      "ranking": 151
      }
     ]
    }
