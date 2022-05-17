@@ -1,17 +1,5 @@
 [
  {
-  "id": "FDC73C65-B108-46FD-9ED7-A0AE70912BBE",
-  "title": "Torneo Città d'Italia #4 - 1a categoria m/f - Roma",
-  "days": [
-   "20220514",
-   "20220515"
-  ],
-  "results": {
-   "20220514": [],
-   "20220515": []
-  }
- },
- {
   "id": "60BA474C-3B3B-4252-B2EB-5CB60106F484",
   "title": "Torneo Città d'Italia #4 - Eccellenza - Milano",
   "days": [
@@ -19,8 +7,667 @@
    "20220515"
   ],
   "results": {
-   "20220514": [],
-   "20220515": []
+   "20220514": [
+    {
+     "players": [
+      "Fabrizio Rettaroli [9/16]",
+      "Tommaso Ostan [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-8",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Gianni Canal [9/16]",
+      "Lorenzo Zacchetti [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Gerardo Carvelli [9/16]",
+      "Pablo Daini [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-3",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Davide Picotto [9/16]",
+      "Scott Fowler [17/32]"
+     ],
+     "games": [
+      "11-7",
+      "11-7",
+      "8-11",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [9/16]",
+      "Ciprian Corciu [17/32]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Vittorio Drusiani [1]",
+      "Fabrizio Rettaroli [9/16]"
+     ],
+     "games": [
+      "14-12",
+      "11-7",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Francesco Cislaghi [5/8]",
+      "Stefano Peroncini [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-8",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Pablo Daini [17/32]",
+      "Lorenzo Zacchetti [17/32]"
+     ],
+     "games": [
+      "11-4",
+      "11-8",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Andrea Dini [5/8]",
+      "Gianni Canal [9/16]"
+     ],
+     "games": [
+      "5-11",
+      "11-9",
+      "5-11",
+      "11-9",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Alfonso Ascenzo Navarro [3/4]",
+      "Gerardo Carvelli [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [3/4]",
+      "Davide Picotto [9/16]"
+     ],
+     "games": [
+      "14-12",
+      "9-11",
+      "11-2",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Davide Bernardi [5/8]",
+      "Filippo Conti [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-9",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Sergio Monforte [5/8]",
+      "Stefano Silvestri [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "11-7",
+      "8-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [9/16]",
+      "Alessandro Ventrice [2]"
+     ],
+     "games": [
+      "9-11",
+      "11-8",
+      "11-8",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Vittorio Drusiani [1]",
+      "Francesco Cislaghi [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "12-10",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Fabrizio Rettaroli [9/16]",
+      "Stefano Peroncini [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "7-11",
+      "11-9",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Pablo Daini [17/32]",
+      "Tommaso Ostan [17/32]"
+     ],
+     "games": [
+      "11-6",
+      "11-7",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Alfonso Ascenzo Navarro [3/4]",
+      "Andrea Dini [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Gianni Canal [9/16]",
+      "Gerardo Carvelli [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Davide Bernardi [5/8]",
+      "Kumar Suryansh [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "11-8",
+      "6-11",
+      "4-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [9/16]",
+      "Davide Picotto [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "11-7",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Sergio Monforte [5/8]",
+      "Massimo Tolentino [9/16]"
+     ],
+     "games": [
+      "8-11",
+      "11-8",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Stefano Silvestri [9/16]",
+      "Alessandro Ventrice [2]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-4"
+     ]
+    }
+   ],
+   "20220515": [
+    {
+     "players": [
+      "Fabrizio Rettaroli [9/16]",
+      "Gianni Canal [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-8",
+      "7-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [9/16]",
+      "Stefano Silvestri [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Stefano Peroncini [9/16]",
+      "Gerardo Carvelli [9/16]"
+     ],
+     "games": [
+      "5-11",
+      "9-11",
+      "11-9",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Alessandro Ventrice [2]",
+      "Davide Picotto [9/16]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Francesco Cislaghi [5/8]",
+      "Andrea Dini [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "15-13",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [3/4]",
+      "Massimo Tolentino [9/16]"
+     ],
+     "games": [
+      "11-8",
+      "11-13",
+      "11-9",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Pablo Daini [17/32]",
+      "Scott Fowler [17/32]"
+     ],
+     "games": [
+      "6-11",
+      "11-13",
+      "11-6",
+      "11-9",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Alfonso Ascenzo Navarro [3/4]",
+      "Vittorio Drusiani [1]"
+     ],
+     "games": [
+      "12-10",
+      "11-2",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Davide Bernardi [5/8]",
+      "Sergio Monforte [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-3",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Conti [9/16]",
+      "Fabrizio Rettaroli [9/16]"
+     ],
+     "games": [
+      "14-12",
+      "11-6",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Stefano Silvestri [9/16]",
+      "Gianni Canal [9/16]"
+     ],
+     "games": [
+      "9-11",
+      "11-3",
+      "11-5",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Alessandro Ventrice [2]",
+      "Stefano Peroncini [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "11-13",
+      "11-8",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [3/4]",
+      "Francesco Cislaghi [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-7",
+      "5-11",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Massimo Tolentino [9/16]",
+      "Andrea Dini [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-9",
+      "11-13",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Vittorio Drusiani [1]",
+      "Sergio Monforte [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-6",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Davide Bernardi [5/8]",
+      "Alfonso Ascenzo Navarro [3/4]"
+     ],
+     "games": [
+      "9-11",
+      "11-6",
+      "12-10",
+      "6-11",
+      "11-3"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "FDC73C65-B108-46FD-9ED7-A0AE70912BBE",
+  "title": "Torneo Città d'Italia #4 - 1a categoria m/f - Roma",
+  "days": [
+   "20220514"
+  ],
+  "results": {
+   "20220514": [
+    {
+     "players": [
+      "Edoardo Calza [5/8]",
+      "Niccolo' Danieli [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-3",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Davide Roncolini [5/8]",
+      "Edoardo Guida [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-9",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Niccolò Marino [9/16]",
+      "Paolo Ponticelli [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Edoardo Calza [5/8]",
+      "Paolo Tomassoni [1]"
+     ],
+     "games": [
+      "9-11",
+      "11-5",
+      "11-3",
+      "8-11",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Simone Di Thiene [3/4]",
+      "William Mbiena [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "12-10",
+      "3-11",
+      "6-11",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Marco Ambrosetti [3/4]",
+      "Davide Roncolini [5/8]"
+     ],
+     "games": [
+      "11-6",
+      "11-6",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Pierluigi Ugolini [2]",
+      "Niccolò Marino [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-3",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Edoardo Guida [9/16]",
+      "Paolo Ponticelli [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "11-6",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Edoardo Calza [5/8]",
+      "Simone Di Thiene [3/4]"
+     ],
+     "games": [
+      "4-11",
+      "11-9",
+      "11-13",
+      "11-4",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "William Mbiena [5/8]",
+      "Paolo Tomassoni [1]"
+     ],
+     "games": [
+      "11-8",
+      "4-11",
+      "11-9",
+      "6-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Marco Ambrosetti [3/4]",
+      "Pierluigi Ugolini [2]"
+     ],
+     "games": [
+      "11-8",
+      "11-7",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Davide Roncolini [5/8]",
+      "Niccolò Marino [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "5-11",
+      "11-3",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Edoardo Guida [9/16]",
+      "Niccolo' Danieli [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-2",
+      "11-13",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Simone Di Thiene [3/4]",
+      "Pierluigi Ugolini [2]"
+     ],
+     "games": [
+      "11-0",
+      "3-11",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "William Mbiena [5/8]",
+      "Davide Roncolini [5/8]"
+     ],
+     "games": [
+      "7-11",
+      "13-11",
+      "11-7",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Paolo Tomassoni [1]",
+      "Niccolò Marino [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-1",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Edoardo Calza [5/8]",
+      "Marco Ambrosetti [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "11-7",
+      "11-2"
+     ]
+    }
+   ]
   }
  },
  {
@@ -31,7 +678,163 @@
    "20220508"
   ],
   "results": {
-   "20220507": [],
+   "20220507": [
+    {
+     "players": [
+      "Saverio U15 Guzzo [9/16]",
+      "Giorgio U15 De Benedetto [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-1",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Simone U15 De Bartolomeo [9/16]",
+      "Nicolò U13 Paesani [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-6",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Kristjan U15 Nano [9/16]",
+      "Francesco U15 Aiello [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "11-0",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Davide U19 Morri [1]",
+      "Saverio U15 Guzzo [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-1",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Gemma U17 Vercillo [3/4]",
+      "Giulia U19 Miceli [1]"
+     ],
+     "games": [
+      "11-4",
+      "11-3",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Francesco U15 Cascelli [9/16]",
+      "Luciano Giovanni U15 Osso [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Tobia U15 Semprini [9/16]",
+      "Alessandro U15 Passarelli [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-4",
+      "9-11",
+      "9-11",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Oliver U13 Barberi [17/32]",
+      "Christofer U15 Cusumano [9/16]"
+     ],
+     "games": [
+      "12-10",
+      "10-12",
+      "11-6",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Mariagiovanna U13 Trombetta [9/16]",
+      "Daryna U17 Salahub [5/8]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Gemma U17 Vercillo [3/4]",
+      "Carlotta U13 Ceci [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Karola U17 Tallarico [3/4]",
+      "Giorgia U13 Ranieri [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-6",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Sofia Elena U17 Pacilli [5/8]",
+      "Martina U15 Zanchiello [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-4",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Flavia U15 Miceli [9/16]",
+      "Alice U17 Maiolino [5/8]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Vittoria U17 Ceci [2]",
+      "Ludovica U15 Salerno [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "11-0"
+     ]
+    }
+   ],
    "20220508": []
   }
  },
