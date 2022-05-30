@@ -1,5 +1,1288 @@
 [
  {
+  "id": "30B68653-DB79-4D69-A334-3A2A68B45057",
+  "title": "Torneo Giovanile Nazionale - Trento",
+  "days": [
+   "20220528",
+   "20220529"
+  ],
+  "results": {
+   "20220528": [
+    {
+     "players": [
+      "Benedetto U17 Cariolato [9/16]",
+      "Stefano U13 Sodini [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U13 Reniero [17/32]",
+      "Leonardo U15 Pisetta [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "9-11",
+      "11-4",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Matteo U13 Cofler [17/32]",
+      "Giordano U17 Groppo [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Massimo U15 Parolari [9/16]",
+      "Igor U13 Valle [17/32]"
+     ],
+     "games": [
+      "11-1",
+      "11-7",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Dorian U17 Uderzo [9/16]",
+      "Giulio U13 Montagna [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "11-6",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Mirko U15 Torresan [9/16]",
+      "Leonardo U13 Chini [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "13-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Leonardo U15 Penasa [9/16]",
+      "Carlo U15 Catelan [17/32]"
+     ],
+     "games": [
+      "11-7",
+      "11-7",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni U17 Borso [9/16]",
+      "Giovanni U15 Daprà [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Asia U19 Gasparini [2]",
+      "Sara U15 Gasparini [5]"
+     ],
+     "games": [
+      "11-5",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Beatrice U15 Filippi [4]",
+      "Mery U19 Vigolo [3]"
+     ],
+     "games": [
+      "11-4",
+      "11-6",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Benedetto U17 Cariolato [9/16]",
+      "Alberto U19 De Munari [1]"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Leonardo U15 Pisetta [9/16]",
+      "Stefano U13 Sodini [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U13 Reniero [17/32]",
+      "Alex U17 Rossato [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Giordano U17 Groppo [9/16]",
+      "Igor U13 Valle [17/32]"
+     ],
+     "games": [
+      "11-4",
+      "11-2",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Amedeo Giulio U17 Tonidandel [5/8]",
+      "Matteo U13 Cofler [17/32]"
+     ],
+     "games": [
+      "11-1",
+      "11-4",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Giulio U13 Montagna [17/32]",
+      "Leonardo U13 Chini [17/32]"
+     ],
+     "games": [
+      "11-7",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo U17 Staurengo [3/4]",
+      "Massimo U15 Parolari [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-1",
+      "11-0"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni U15 Daprà [17/32]",
+      "Carlo U15 Catelan [17/32]"
+     ],
+     "games": [
+      "12-10",
+      "11-9",
+      "9-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U17 Comerio [3/4]",
+      "Dorian U17 Uderzo [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Mery U19 Vigolo [3]",
+      "Sara U15 Gasparini [5]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Giacomo U17 Cofler [5/8]",
+      "Mirko U15 Torresan [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Elisa U19 Zambon [1]",
+      "Asia U19 Gasparini [2]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Riccardo U17 Montagna [5/8]",
+      "Leonardo U15 Penasa [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-2",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Leonardo U15 Pisetta [9/16]",
+      "Giordano U17 Groppo [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni U17 Borso [9/16]",
+      "Pietro U19 Lorenzi [2]"
+     ],
+     "games": [
+      "11-9",
+      "11-8",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Giulio U13 Montagna [17/32]",
+      "Giovanni U15 Daprà [17/32]"
+     ],
+     "games": [
+      "5-11",
+      "11-7",
+      "11-3",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U13 Reniero [17/32]",
+      "Benedetto U17 Cariolato [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-2",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Alex U17 Rossato [5/8]",
+      "Alberto U19 De Munari [1]"
+     ],
+     "games": [
+      "11-3",
+      "11-5",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo U17 Staurengo [3/4]",
+      "Amedeo Giulio U17 Tonidandel [5/8]"
+     ],
+     "games": [
+      "11-1",
+      "11-1",
+      "11-0"
+     ]
+    },
+    {
+     "players": [
+      "Massimo U15 Parolari [9/16]",
+      "Matteo U13 Cofler [17/32]"
+     ],
+     "games": [
+      "11-6",
+      "8-11",
+      "11-9",
+      "5-11",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U17 Comerio [3/4]",
+      "Giacomo U17 Cofler [5/8]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Dorian U17 Uderzo [9/16]",
+      "Mirko U15 Torresan [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Beatrice U15 Filippi [4]",
+      "Sara U15 Gasparini [5]"
+     ],
+     "games": [
+      "11-1",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Elisa U19 Zambon [1]",
+      "Mery U19 Vigolo [3]"
+     ],
+     "games": [
+      "11-3",
+      "11-1",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Riccardo U17 Montagna [5/8]",
+      "Giovanni U17 Borso [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Pietro U19 Lorenzi [2]",
+      "Leonardo U15 Penasa [9/16]"
+     ],
+     "games": [
+      "4-11",
+      "11-6",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Stefano U13 Sodini [17/32]",
+      "Igor U13 Valle [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Carlo U15 Catelan [17/32]",
+      "Leonardo U13 Chini [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-8",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Leonardo U15 Pisetta [9/16]",
+      "Giulio U13 Montagna [17/32]"
+     ],
+     "games": [
+      "11-3",
+      "11-7",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni U15 Daprà [17/32]",
+      "Giordano U17 Groppo [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "10-12",
+      "11-4",
+      "11-7"
+     ]
+    }
+   ],
+   "20220529": [
+    {
+     "players": [
+      "Alex U17 Rossato [5/8]",
+      "Massimo U15 Parolari [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Dorian U17 Uderzo [9/16]",
+      "Pietro U19 Lorenzi [2]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Elisa U19 Zambon [1]",
+      "Beatrice U15 Filippi [4]"
+     ],
+     "games": [
+      "11-2",
+      "11-5",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Mery U19 Vigolo [3]",
+      "Asia U19 Gasparini [2]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Amedeo Giulio U17 Tonidandel [5/8]",
+      "Benedetto U17 Cariolato [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-6",
+      "5-11",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Giacomo U17 Cofler [5/8]",
+      "Giovanni U17 Borso [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo U17 Staurengo [3/4]",
+      "Gioele U13 Reniero [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U17 Comerio [3/4]",
+      "Riccardo U17 Montagna [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "11-6",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Matteo U13 Cofler [17/32]",
+      "Alberto U19 De Munari [1]"
+     ],
+     "games": [
+      "4-11",
+      "11-8",
+      "8-11",
+      "11-4",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Mirko U15 Torresan [9/16]",
+      "Leonardo U15 Penasa [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "7-11",
+      "8-11",
+      "11-7",
+      "13-11"
+     ]
+    },
+    {
+     "players": [
+      "Alex U17 Rossato [5/8]",
+      "Dorian U17 Uderzo [9/16]"
+     ],
+     "games": [
+      "11-13",
+      "5-11",
+      "11-6",
+      "11-7",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Elisa U19 Zambon [1]",
+      "Sara U15 Gasparini [5]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-0"
+     ]
+    },
+    {
+     "players": [
+      "Beatrice U15 Filippi [4]",
+      "Asia U19 Gasparini [2]"
+     ],
+     "games": [
+      "11-3",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Giacomo U17 Cofler [5/8]",
+      "Amedeo Giulio U17 Tonidandel [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "11-9",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Giovanni U17 Borso [9/16]",
+      "Benedetto U17 Cariolato [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "11-1",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo U17 Staurengo [3/4]",
+      "Gioele U17 Comerio [3/4]"
+     ],
+     "games": [
+      "11-8",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Gioele U13 Reniero [17/32]",
+      "Riccardo U17 Montagna [5/8]"
+     ],
+     "games": [
+      "9-11",
+      "11-4",
+      "3-11",
+      "11-5",
+      "11-7"
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "16191A16-8615-45A4-B6AB-A30050D32EF0",
+  "title": "Torneo Città d'Italia #4 - Elite M/F - WSF& PSA Satellite - Rende",
+  "days": [
+   "20220521",
+   "20220522"
+  ],
+  "results": {
+   "20220521": [
+    {
+     "players": [
+      "Dario Pio TRIGGIANI [9/16]",
+      "Giovambattista MANNA [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-1",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Ludovico MARCHESE [9/16]",
+      "Maicon ROBINSON [17/32]"
+     ],
+     "games": [
+      "11-1",
+      "11-1",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Mauro TROMBETTA [17/32]",
+      "Pier Paolo PISANO [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-5",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [9/16]",
+      "Saverio GUZZO [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "11-4",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Carla Vanesa SANTANA [5/8]",
+      "Giulia MICELI [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-4",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Vittoria CECI [9/16]",
+      "Sofia Elena PACILLI [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-4",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Alice MAIOLINO [5/8]",
+      "Martina VADACCHINO [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "8-11",
+      "11-3",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "Dario Pio TRIGGIANI [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-2",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Daniele DE BARTOLOMEO [9/16]",
+      "Giuseppe LABOCCETTA [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-6",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Goffredo SCANGA [5/8]",
+      "Pietro TEODONNO [9/16]"
+     ],
+     "games": [
+      "Walkover"
+     ]
+    },
+    {
+     "players": [
+      "Paul BROADBERRY [3/4]",
+      "Ludovico MARCHESE [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-0",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Giovambattista MANNA [17/32]",
+      "Maicon ROBINSON [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-4",
+      "11-0"
+     ]
+    },
+    {
+     "players": [
+      "Mattia MULAZZANI [3/4]",
+      "Mauro TROMBETTA [17/32]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Roberto Luciano PEZZOTA [5/8]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-1",
+      "11-3",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Davide MORRI [5/8]",
+      "Carmine CHIAPPETTA [9/16]"
+     ],
+     "games": [
+      "12-10",
+      "11-9",
+      "9-11",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Hassan KHALIL [2]",
+      "Davide MOLLICA [9/16]"
+     ],
+     "games": [
+      "11-8",
+      "11-9",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Saverio GUZZO [17/32]",
+      "Pier Paolo PISANO [9/16]"
+     ],
+     "games": [
+      "11-7",
+      "11-4",
+      "8-11",
+      "9-11",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Cristina TARTARONE [1]",
+      "Carla Vanesa SANTANA [5/8]"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Flavia MICELI [5/8]",
+      "Yasmin GHINI [3/4]"
+     ],
+     "games": [
+      "11-7",
+      "11-6",
+      "14-12"
+     ]
+    },
+    {
+     "players": [
+      "Gemma VERCILLO [3/4]",
+      "Vittoria CECI [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Giulia SEMPRINI [2]",
+      "Alice MAIOLINO [5/8]"
+     ],
+     "games": [
+      "11-2",
+      "11-1",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Sofia Elena PACILLI [5/8]",
+      "Martina VADACCHINO [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-4",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "Daniele DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-2",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Paul BROADBERRY [3/4]",
+      "Goffredo SCANGA [5/8]"
+     ],
+     "games": [
+      "11-6",
+      "5-11",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Giuseppe LABOCCETTA [5/8]",
+      "Dario Pio TRIGGIANI [9/16]"
+     ],
+     "games": [
+      "5-11",
+      "11-4",
+      "11-3",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Roberto Luciano PEZZOTA [5/8]",
+      "Mattia MULAZZANI [3/4]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Hassan KHALIL [2]",
+      "Davide MORRI [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Mauro TROMBETTA [17/32]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "9-11",
+      "11-8",
+      "9-11",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [9/16]",
+      "Carmine CHIAPPETTA [9/16]"
+     ],
+     "games": [
+      "9-11",
+      "11-6",
+      "4-11",
+      "11-5",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Cristina TARTARONE [1]",
+      "Flavia MICELI [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-3",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Giulia SEMPRINI [2]",
+      "Gemma VERCILLO [3/4]"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Yasmin GHINI [3/4]",
+      "Carla Vanesa SANTANA [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "5-11",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Vittoria CECI [9/16]",
+      "Alice MAIOLINO [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-7",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Saverio GUZZO [17/32]",
+      "Giovambattista MANNA [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "7-11",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Pier Paolo PISANO [9/16]",
+      "Maicon ROBINSON [17/32]"
+     ],
+     "games": [
+      "11-1",
+      "11-3",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Giulia MICELI [9/16]",
+      "Sofia Elena PACILLI [5/8]"
+     ],
+     "games": [
+      "8-11",
+      "11-6",
+      "11-9",
+      "7-11",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Yuri FARNETI [1]",
+      "Paul BROADBERRY [3/4]"
+     ],
+     "games": [
+      "11-6",
+      "11-0",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Goffredo SCANGA [5/8]",
+      "Daniele DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-7",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Giuseppe LABOCCETTA [5/8]",
+      "Ludovico MARCHESE [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-5",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Roberto Luciano PEZZOTA [5/8]",
+      "Hassan KHALIL [2]"
+     ],
+     "games": [
+      "11-9",
+      "11-3",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Mattia MULAZZANI [3/4]",
+      "Davide MORRI [5/8]"
+     ],
+     "games": [
+      "4-11",
+      "11-3",
+      "11-6",
+      "6-11",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [9/16]",
+      "Mauro TROMBETTA [17/32]"
+     ],
+     "games": [
+      "11-5",
+      "11-4",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Carmine CHIAPPETTA [9/16]",
+      "Simone DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-5",
+      "11-6"
+     ]
+    }
+   ],
+   "20220522": [
+    {
+     "players": [
+      "Yasmin GHINI [3/4]",
+      "Vittoria CECI [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Carla Vanesa SANTANA [5/8]",
+      "Alice MAIOLINO [5/8]"
+     ],
+     "games": [
+      "11-2",
+      "11-0",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Carmine CHIAPPETTA [9/16]",
+      "Dario Pio TRIGGIANI [9/16]"
+     ],
+     "games": [
+      "11-8",
+      "11-9",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Mattia MULAZZANI [3/4]",
+      "Goffredo SCANGA [5/8]"
+     ],
+     "games": [
+      "13-11",
+      "8-11",
+      "11-8",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Davide MORRI [5/8]",
+      "Daniele DE BARTOLOMEO [9/16]"
+     ],
+     "games": [
+      "11-6",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Davide MOLLICA [9/16]",
+      "Giuseppe LABOCCETTA [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-7",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Mauro TROMBETTA [17/32]",
+      "Ludovico MARCHESE [9/16]"
+     ],
+     "games": [
+      "9-11",
+      "11-6",
+      "11-6",
+      "8-11",
+      "12-10"
+     ]
+    },
+    {
+     "players": [
+      "Hassan KHALIL [2]",
+      "Paul BROADBERRY [3/4]"
+     ],
+     "games": [
+      "9-11",
+      "12-10",
+      "11-5",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Flavia MICELI [5/8]",
+      "Gemma VERCILLO [3/4]"
+     ],
+     "games": [
+      "11-2",
+      "11-6",
+      "11-6"
+     ]
+    },
+    {
+     "players": [
+      "Cristina TARTARONE [1]",
+      "Giulia SEMPRINI [2]"
+     ],
+     "games": [
+      "11-3",
+      "11-2",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Roberto Luciano PEZZOTA [5/8]",
+      "Yuri FARNETI [1]"
+     ],
+     "games": [
+      "11-9",
+      "4-11",
+      "11-8",
+      "6-11",
+      "11-7"
+     ]
+    }
+   ]
+  }
+ },
+ {
   "id": "60BA474C-3B3B-4252-B2EB-5CB60106F484",
   "title": "Torneo Città d'Italia #4 - Eccellenza - Milano",
   "days": [
