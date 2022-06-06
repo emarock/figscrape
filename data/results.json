@@ -1,5 +1,243 @@
 [
  {
+  "id": "2687DA30-4AED-41BC-821B-D772B1494AB8",
+  "title": "Torneo Città d'Italia - Eccellenza - Parma",
+  "days": [
+   "20220604"
+  ],
+  "results": {
+   "20220604": [
+    {
+     "players": [
+      "Filippo Barbieri [9/16]",
+      "Valentino Rosales [5/8]"
+     ],
+     "games": [
+      "12-10",
+      "11-5",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Alfredo Amadei [5/8]",
+      "Federico Rizzi [9/16]"
+     ],
+     "games": [
+      "11-2",
+      "11-3",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Federico Bottan [9/16]",
+      "Luigi Davide Marcantonio [5/8]"
+     ],
+     "games": [
+      "11-8",
+      "11-4",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Antonio Longinotti [5/8]",
+      "Stefano Livio [9/16]"
+     ],
+     "games": [
+      "11-3",
+      "11-4",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [1]",
+      "Filippo Barbieri [9/16]"
+     ],
+     "games": [
+      "11-8",
+      "11-4",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Donarini [3/4]",
+      "Alfredo Amadei [5/8]"
+     ],
+     "games": [
+      "11-3",
+      "11-3",
+      "11-2"
+     ]
+    },
+    {
+     "players": [
+      "Alberto Andrea Mussi [3/4]",
+      "Federico Bottan [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-6",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Corbani [2]",
+      "Antonio Longinotti [5/8]"
+     ],
+     "games": [
+      "11-5",
+      "11-0",
+      "11-1"
+     ]
+    },
+    {
+     "players": [
+      "Valentino Rosales [5/8]",
+      "Federico Rizzi [9/16]"
+     ],
+     "games": [
+      "11-8",
+      "9-11",
+      "11-6",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Luigi Davide Marcantonio [5/8]",
+      "Stefano Livio [9/16]"
+     ],
+     "games": [
+      "11-9",
+      "11-5",
+      "11-5"
+     ]
+    },
+    {
+     "players": [
+      "Alfredo Amadei [5/8]",
+      "Filippo Barbieri [9/16]"
+     ],
+     "games": [
+      "11-5",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Federico Bottan [9/16]",
+      "Antonio Longinotti [5/8]"
+     ],
+     "games": [
+      "11-7",
+      "11-7",
+      "11-7"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [1]",
+      "Lorenzo Donarini [3/4]"
+     ],
+     "games": [
+      "11-13",
+      "11-3",
+      "11-4",
+      "9-11",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Corbani [2]",
+      "Alberto Andrea Mussi [3/4]"
+     ],
+     "games": [
+      "11-7",
+      "11-4",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Valentino Rosales [5/8]",
+      "Luigi Davide Marcantonio [5/8]"
+     ],
+     "games": [
+      "11-6",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Federico Rizzi [9/16]",
+      "Stefano Livio [9/16]"
+     ],
+     "games": [
+      "4-11",
+      "11-7",
+      "14-12",
+      "11-4"
+     ]
+    },
+    {
+     "players": [
+      "Alfredo Amadei [5/8]",
+      "Federico Bottan [9/16]"
+     ],
+     "games": [
+      "11-4",
+      "11-6",
+      "9-11",
+      "11-8"
+     ]
+    },
+    {
+     "players": [
+      "Filippo Barbieri [9/16]",
+      "Antonio Longinotti [5/8]"
+     ],
+     "games": [
+      "7-11",
+      "12-10",
+      "11-5",
+      "11-3"
+     ]
+    },
+    {
+     "players": [
+      "Kumar Suryansh [1]",
+      "Lorenzo Corbani [2]"
+     ],
+     "games": [
+      "11-4",
+      "11-4",
+      "11-9"
+     ]
+    },
+    {
+     "players": [
+      "Lorenzo Donarini [3/4]",
+      "Alberto Andrea Mussi [3/4]"
+     ],
+     "games": [
+      "12-10",
+      "5-11",
+      "11-4",
+      "11-2"
+     ]
+    }
+   ]
+  }
+ },
+ {
   "id": "30B68653-DB79-4D69-A334-3A2A68B45057",
   "title": "Torneo Giovanile Nazionale - Trento",
   "days": [
